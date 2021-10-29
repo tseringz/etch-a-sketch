@@ -1,2 +1,2 @@
 # etch-a-sketch
-sketchpad project 
+sketchpad project given by the odin project
