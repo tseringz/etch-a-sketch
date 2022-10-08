@@ -48,6 +48,7 @@ const colorChange = Array.from(document.querySelectorAll('#grid-items')
     e.style.backgroundColor = colorPicker;
     });
     });
+    
    // Generating random color when clicking on the rainbow button
    const rainbowMode = document.getElementById('rainbowmode');
    rainbowMode.addEventListener('click', function(){
