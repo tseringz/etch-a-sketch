@@ -10,3 +10,4 @@ Implemantation of etch-a-sketch from The Odin Project curriculum.
 
 ## Links
 [Live Demo Of the Game](https://tseringz.github.io/etch-a-sketch/)
+![etch-a-sketch](https://user-images.githubusercontent.com/15078245/217199854-d6a8877b-12dc-4ac9-8afd-1453e8431572.jpg)
